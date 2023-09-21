@@ -112,7 +112,7 @@ output {
 }
 
 footer {
-  background-color: #333;
+  background: linear-gradient(to bottom, #00CD66, #008B45);
   color: #fff;
   text-align: center;
   padding: 10px 0;
