@@ -1,12 +1,13 @@
 /* Importe uma fonte do Google Fonts (por exemplo, "Nunito") */
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nabla&display=swap");
 
 header {
   background: linear-gradient(to bottom, #008B45, #00CD66);
   color: #fff;
   text-align: center;
   padding: 20px 0;
-  font-family: "Nunito", sans-serif;
+  font-family: "Nabla", cursive;
   font-size: 32px;
   transition: background-color 0.3s ease;
 }
