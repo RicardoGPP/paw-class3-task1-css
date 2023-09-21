@@ -9,11 +9,11 @@ header {
   padding: 20px 0;
   font-family: "Nabla", cursive;
   font-size: 50px;
-  transition: background-color 0.3s ease;
 }
 
 header:hover {
-  background-color: #0056b3;
+  background: linear-gradient(#bfb500, #fffef0, #bfb500);
+  text-shadow: 2px 2px 2px black;
 }
 
 section {
