@@ -17,14 +17,14 @@ header:hover {
 }
 
 section {
-  background-color: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(to bottom, #414141, #292929);
   border-radius: 10px;
   margin-bottom: 20px;
   padding: 20px;
   font-family: "Nunito", sans-serif;
   font-size: 18px;
   transition: transform 0.2s ease;
+  text-align: center;
 }
 
 section h2 {
